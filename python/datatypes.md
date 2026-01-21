@@ -1,4 +1,4 @@
-# data type / object  type
+# data type / object  type 
 
 - numbers : 1234, 3.14, 3 + 4j, decimal(),
 fraction()
@@ -6,7 +6,7 @@ strings : 'hello', "hello","""hello"""
 - lists : [1, 2, 3], ['a', 'b', 'c']
 - tuples : (1, 2, 3), ('a', 'b', 'c')
 
-Dictionaries : {'key1': 'value1', 'key2': 'value2'}
+Dictionaries : {'key1': 'value1', 'key2': 'value2'} 
 
 
 - sets : {1, 2, 3}, {'a', 'b', 'c'},set('abc')
@@ -22,7 +22,9 @@ Dictionaries : {'key1': 'value1', 'key2': 'value2'}
 
 
 
-advance : decorators, generators, context managers, metaclasses
+advance : decorators, generators, context managers, metaclassesm, metaProgramming 
 
 
 MetaProgramming : type(), getattr(), setattr(), hasattr()
+
+.
